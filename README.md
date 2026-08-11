@@ -11,3 +11,6 @@ Run your maintenance scripts by using `&&` after jellyfin-idle.sh
 
 Example usage
 `/home/jellyfin/jellyfin-idle.sh && $YOUR-MAINTENANCE-SCRIPT`
+
+## Debug
+Call script with `-d` switch to run in debug mode.
